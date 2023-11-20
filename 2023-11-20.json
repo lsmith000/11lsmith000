@@ -1,0 +1,26 @@
+{
+  "name": "Ola Fisher",
+  "age": 24,
+  "address": {
+    "street": "Sehab Street",
+    "city": "Gizdeced",
+    "state": "MI",
+    "zip": "92687"
+  },
+  "contact": {
+    "phone": "(323) 547-7803",
+    "servicePhone": "800914358"
+  },
+  "birthday": "1985-04-26T02:39:56.712Z",
+  "ip": "219.70.165.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Cevgil daniufa boczeapo ezihuzmev za hebpik le lod ud diwtu vivwan go gariw egvad. Bomnil kaje huw ene hipera kopap maguwruk ohi ujeelo vu tacgon iwjilno canbar kowil ut ve rapti. Saij map diemdan cidabuber ba wewsuwma zimep ripome lohlav uddojmek vumab kabadvu uzwe op gunu we. Ufazida bolripaz bipakes sif zivsoc fijik ur coflo agutanze oviinule lejofvo paewubab wegwohe wozo na ha nius ovcief. Idontuj wab tas vuji kag suw uvneme huzewo cagozi mafnamog jod lu. Ne bafosmu zifpivi kogusdi memzavsut kimum cepajuup pani za kecul pubgu wucsiw.",
+    "bio": "Maw geljadug lavkaiwu eme ec ugnehboc gojiv rag mo otuwemih tusnik mudozwi. Viv ve sof da dagu zihwevu zivri ku mi fe ziwit wo ma vecset zo si. Ufoksi riz wuwzuji duc wi husifagih lerjuci zokham em viksoloc fokeami etad."
+  },
+  "apiKey": "e8f4e3a76f7b93a80c158e8e7bd016dfe18e9293fe252b0da5a8e3be7eea2680",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
