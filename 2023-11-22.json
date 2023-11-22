@@ -1,0 +1,26 @@
+{
+  "name": "Christine Hunter",
+  "age": 33,
+  "address": {
+    "street": "Joji Avenue",
+    "city": "Zurkikjun",
+    "state": "HI",
+    "zip": "15913"
+  },
+  "contact": {
+    "phone": "(429) 346-4910",
+    "servicePhone": "800161792"
+  },
+  "birthday": "1999-09-30T10:11:59.611Z",
+  "ip": "209.102.91.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Ricgil casu hamul enu zalivi tunimsa rupa nuuv jokerod amfa oberohif zin re. Iwolab du fowluat midkuhe fukaz pocawjo be bu zolsub behkavi ituzion vur re neozi vilsaj dobre hu beetuvev. Ohfinci awaniwij po se umiwar fihzo huvhi noof van fis naf morat pifvubdos. Teji vag wac biso mina hitbi alime addosoti matob hustan zelpujihi lifle. Tanvun nahimmut zepici ode dedto leb suiha mechidgaf dahupmut ca evaw hovseoma ufzu zaj ha. Gifdib dip tic pe ad su jit juftife ocuteki kudek zogvu dawuwe ja.",
+    "bio": "Johlasusa cuhi calenir hudig wo pod dekoz cukumu woc aru mupezos edomacdo. Icdo udege zig uvapovu wu vuelmek vultiw duchossap ojiuru ahku lak buceshej tow. Murfuut hieded bi divjathe lawinwo han ha nav ihwisri ubinoha fotfes mul mer nasmigep."
+  },
+  "apiKey": "4ae1ee7f943ed15e206efacfcca74817cf0dc0ba6cbebbf6efe237d01d31b7ae",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
