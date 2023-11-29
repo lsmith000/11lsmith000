@@ -1,0 +1,26 @@
+{
+  "name": "Emma Mann",
+  "age": 31,
+  "address": {
+    "street": "Ibna Boulevard",
+    "city": "Nenego",
+    "state": "VT",
+    "zip": "02498"
+  },
+  "contact": {
+    "phone": "(967) 618-3981",
+    "servicePhone": "800275326"
+  },
+  "birthday": "1966-11-25T05:27:38.337Z",
+  "ip": "12.201.201.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuh seplezot bof va et fofucsoc zizu muhmis zi gebigho oh ruwu uf sub. Ve lihikew ojvu mum avohid ratatnes ef raztagzog toltijo pobites gav tej. Hev sentud hab zupemwu nesomuw gaep ik vu badjeru gojumzo beneg pizbu. Vudedki mazuwih cizip giwigi tuhatkav rij wiazusoh jat naczuaf te ernu opucawi.",
+    "bio": "Uj olibod poddijisa fupah fa gulub vegotrod capom itfe za vufhel pucoku pegufmaz adi ve ma mitkiget. Miflonu asuwe aw mun feujloh valha puz mu luwfur lurmeego zogibaru igole ubwodse. Neho ofaagioja evafawori cocat il kobvaji miaki les iboinawin ogrocja tobemo bekcuket. Pealagod howop pivup guwuhud ora molfunze za gof ov foza wihmiz dagez."
+  },
+  "apiKey": "ea01fa95abfa2f0ffbbb3303b3e01af77802e73ba846f20ea4f373e4ab529085",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
