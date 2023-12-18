@@ -1,0 +1,26 @@
+{
+  "name": "Elijah Perez",
+  "age": 19,
+  "address": {
+    "street": "Jujbo Place",
+    "city": "Dejozo",
+    "state": "AL",
+    "zip": "06336"
+  },
+  "contact": {
+    "phone": "(700) 482-6907",
+    "servicePhone": "800342459"
+  },
+  "birthday": "1996-08-24T17:19:45.807Z",
+  "ip": "76.90.240.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Hekilvi po ru iku dojwakma heferu mapumre sefpi la ad towpih zewzi ven zeberhez ozusen uk izeuje jis. Wos ipfawic bokwi ba cop met tej sublog odizej jigko ogisazlim ibasajgib usenibur. Ajoebpil gojfoduno wa dasrok waro suv pow upja wiso ulwu wa tifawku owpe eckog solkeod oc tahdi rebrazo.",
+    "bio": "Sebipgup uvnud lumuz wirasi kigsik ov bukjo zersuh ledtieb dah kebhokvo vusakrej nesel rerezwir iviif hen. Jevpoef jugzatma tuk hernaggak imuted caj ewijoki bim tugasvap jug pu ecbik nopiw ri doegoup ovepu pi. Rumo rilibivu hime em wem bu cuasho pedefuj evwol por habat umeditzan lavhiup cunackoc fuhi uvame fudfah."
+  },
+  "apiKey": "feb0348a008fb3e19688b3c33f0c27dfb9b6e0f941a41dc17cff010d13a51953",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
