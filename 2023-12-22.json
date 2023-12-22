@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Hampton",
+  "age": 26,
+  "address": {
+    "street": "Efapa Trail",
+    "city": "Jiboti",
+    "state": "DC",
+    "zip": "56072"
+  },
+  "contact": {
+    "phone": "(914) 667-7223",
+    "servicePhone": "800744344"
+  },
+  "birthday": "1977-05-13T21:03:50.383Z",
+  "ip": "79.50.134.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Ud vuw otec ruetwoh kidudi wan odepusheh ake gac ohnoc fi vuah bec vujjen lop job. Wususo havnidle gefisa in da hogzebfi cehsez um de at pecow zemif ici mul owrir gajuaga. Su loha dumlare cocahun wo tosaba pup bub zoasewa vuwaro didu imire.",
+    "bio": "Tapifoc iz ziwvepo atbaj fu sebhag mazbo kahema wol zes wes heelo ej ni melubutow. Ejo usujum re isefop enrozru men nacma kobwasan nicjeb ne za vina bittisujo aj uh. Koheceur velepif dutfi oduzole evite sehu kenuc jejcel faravhu zew rohimu pofrer zisuj uvatij guwilu."
+  },
+  "apiKey": "79a7962089af4ce95a19b13cfd120c7b917308089f43a27f73502d4a2f553788",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
