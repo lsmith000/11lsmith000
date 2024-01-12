@@ -1,0 +1,26 @@
+{
+  "name": "Joel Page",
+  "age": 35,
+  "address": {
+    "street": "Liebi Way",
+    "city": "Lotatvo",
+    "state": "WY",
+    "zip": "31571"
+  },
+  "contact": {
+    "phone": "(779) 532-4573",
+    "servicePhone": "800889751"
+  },
+  "birthday": "1998-01-21T05:26:28.676Z",
+  "ip": "121.46.130.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Vopowija ijoloro gujjab ni zor ki wevisi leh veshamu kefuzles asasa jiz fac veku olesil. Noge kuesaz hom galun zan bugtat ogsiw li ofjel omo mop jo uvotuuz rej veivlos to peh. Bulfo tecpafta ha ratnokec limzon ci petefuke odi toti fat disek baj dozkez kodu ucasil umdijuf.",
+    "bio": "Jo etuna tuk imemafu hitbuhu lezeot fesfobbi sacu mudlikek udmojeri vezdev zac cev ot ajeton. Beavi voh fugeg ukadosuc rok javo ofhowac lumacpil hu owan vewkilfit heovejub jamjihir dijcu kaechad. Dupahu honnun cazuh nedur nibam didjeliko mi fizom sivhuk felwut hoh ceh hu gukbudjo licef. Rig zolbaw mewgo henfapoc vemitani ke iweji kil ejvep ripofe se enubesav."
+  },
+  "apiKey": "1cdf3cacbfa8ef51693a2fe1d66867d24cd8c897467b59e0a84a13de67f508a7",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
