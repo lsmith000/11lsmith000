@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Greer",
+  "age": 42,
+  "address": {
+    "street": "Kizud Lane",
+    "city": "Hapusvuw",
+    "state": "AR",
+    "zip": "44442"
+  },
+  "contact": {
+    "phone": "(325) 834-6499",
+    "servicePhone": "800631856"
+  },
+  "birthday": "1992-07-01T15:56:33.316Z",
+  "ip": "208.194.216.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri obe zogovle pipjoccin badmihozu obra dohat ca oguaze ifu fo fagepru. Jocsizguf ekuvo pafmac vivba ah zepibru kota sanab ajik war teclokur ki modediwi katap megigju lado. Mos mokbad vu gi wekaef asecuv mu kofozla bazopkuf lutume miffa nijuut. Mozja gowzifkef vimal ni vacwep ciz icrulku pa irateluge kivwuk ijulezki tadekabi.",
+    "bio": "Izvumona kaf wac ahu uvlipud uva uchupuc pa jemepizug ar puuru iju. Of gioge vo sul isso obalop vap ul ribumar ujeguoge cipnambib wok wijegzol juapcub ila agerovpim nascah pobuj. Movle godal zapsow reslajov gubaram ha gosazjed nuwuzer dip zotu taabkok gu."
+  },
+  "apiKey": "dbdfde2707b8c64d973d7b1a7f4757fb4cbc25b9325b3a473c6673f0a226f718",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
