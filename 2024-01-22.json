@@ -1,0 +1,26 @@
+{
+  "name": "Leila Rowe",
+  "age": 64,
+  "address": {
+    "street": "Jutgaf Street",
+    "city": "Zujfazja",
+    "state": "LA",
+    "zip": "19647"
+  },
+  "contact": {
+    "phone": "(368) 865-1183",
+    "servicePhone": "800456141"
+  },
+  "birthday": "1961-12-11T23:27:49.977Z",
+  "ip": "248.173.10.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Gurabud nuvah jarfoohu de imiitu ak ha ti us ec vaf guz idozoebu gofvepog na. Na kic anwugu aflu nisuvvar buf iteuwavik mimubem maj ocepekej jepivug cepsetog. Zak vibabe sif mi pe fiv oksimip ismiklom joawri kihope ire hon jeh jubouh pogween kuw diaju tu.",
+    "bio": "Awi ma ape biw jegehuc fakna owi se dalzafmaj jeimene ufi vik hewihub nah. Jono zumguhe macpej ma dozkizsi kec som ilo pewceb vuhpabaw taw malumrab izucar. Jok tovulu urguzsew tibu ade wora mopnosig pewahbor nen jig gin cazdekze vawnu. Naf hanjujmeb cal muta neesa uto zihmur umzaszin vak fide ni deiwugor fe jasatwar ucogi iwruz ta."
+  },
+  "apiKey": "3a9e483bdbf7c380cfa110a5e811c61c789e4f44bcd16f0e858d13175e99094c",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
