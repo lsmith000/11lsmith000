@@ -1,0 +1,26 @@
+{
+  "name": "Angel Murray",
+  "age": 18,
+  "address": {
+    "street": "Cule Road",
+    "city": "Fudulumi",
+    "state": "AR",
+    "zip": "93332"
+  },
+  "contact": {
+    "phone": "(404) 742-6972",
+    "servicePhone": "800217654"
+  },
+  "birthday": "1982-03-29T02:40:31.917Z",
+  "ip": "228.76.99.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Midebir jamazor zodeb jap dupge meipgek ede mok dutahowoz num ofwibeca owti lotvab. Fah is temazu fe su oseseive vi cec egi kursibabo ham bem icepe ibulotwa. Ciofru beb iru zo kizhigji de sav azvear fe uzhaz zewab oriminu wa rarrodi kida juwsu af it.",
+    "bio": "Gefadubi lon pu ec wieze zozvezja tomitko na nir pizvicij ga kepuc liwam jer. Koek ji aba cozab waewcis nemada akocuk pesoc duhahjir lagaf adla funpi cuasetul sese. Fik nifev joacedu sapku du foosenes wugitav dagu nesfabiju is zabavo obone kesekef pozapeg."
+  },
+  "apiKey": "a7d7a9b12889d84f4d9cb1e172ed73af421a6d42db654500f8df7f04c0939f96",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
