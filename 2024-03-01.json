@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Barnes",
+  "age": 35,
+  "address": {
+    "street": "Ugvo Road",
+    "city": "Belpavfu",
+    "state": "MS",
+    "zip": "06565"
+  },
+  "contact": {
+    "phone": "(524) 398-4756",
+    "servicePhone": "800887941"
+  },
+  "birthday": "1996-04-12T00:37:55.025Z",
+  "ip": "179.86.82.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Kelzu dahata lojo cum efacco puvvire igoori fa ekapoh tuceuve lompoj ha wefnukeh gofug fejgolug jekeb coveniva. Jejmonzav ta vunkevgof zumif ac afivo dono uhru iz zelo weicemof cizi hi lujhiw velu. Re ekici tifhu hu cetulaka zubal diwnaztu pi boj itifohum kat zudlitap ma siw ovorerab. Edilonril lidwom ev rizpe zi mitizri or don gawo reeke ma erozap mumop.",
+    "bio": "Lijkimfo lor zo cebur apupi uclo di ca asudo mar omu dajpozoz zizpi gup uje mi. Mocsul uhpir kurilpip pucfurmus kugas na wizotsag cudvek piv ne aj ditsufvi tagami vuzrac. Kafsusfu ucgo mobat varradjec bicah vomemvef naj no wude ejekew oztakun tara henuk egu fuhzozza bura."
+  },
+  "apiKey": "2e825c11448fdf6fb61c9139273bce7ba9791c971efa0c102297715cdf69a902",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
