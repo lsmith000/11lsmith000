@@ -1,0 +1,26 @@
+{
+  "name": "Mae Leonard",
+  "age": 48,
+  "address": {
+    "street": "Tocob Circle",
+    "city": "Tonjoso",
+    "state": "NH",
+    "zip": "65306"
+  },
+  "contact": {
+    "phone": "(418) 863-4378",
+    "servicePhone": "800126239"
+  },
+  "birthday": "2002-06-15T22:51:44.158Z",
+  "ip": "220.127.219.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Koj sojbufcab kiejitu jupi bizi abo nuf iba pugwut zami si eku. Wenefgid nu ziem dumip je huk ibe set pi kalhusic atpidtim pahudaf afa. Zurza hudta fe volaluc he kosovi isajbo suthugpup obwic uf besoj mubic pujorve lorbameg ju edu.",
+    "bio": "Orajoki viledro canin zaze roz bi uduwaj ireilicib zaomisit cicbo om jornuh dud radusco re biuk. Zebmina cipsob izmifre ojbihreb sibez ne vur murizo emive radhudge kik livupji akusircuw esdej. Ensupitu hise coducove wimgerjo lozwa hairo bevzed mes jizes ureemeda hi cisme muhvu. Fit vehja esa zekogu wugcehru hatufali egetazon gul baname fuatavid jemi valoj bagen. Dewsivcik gumvarot deoku davwapoc wi mikwe gun zaf obi mozdobaz owna giga. Gokhiru ucumipi tobacoti janjuwar kege jerab rahvi govdi cijide piv lec wingovmi nuwil ufeuwruw jof. Fo zueme azonu doc oca jas nesu izofoje mudiwu jedhefneh hure ari efjeste uw kiku ri ol kihfaf."
+  },
+  "apiKey": "65a286ed78f613637133c4117637470dec68344fdf9d78c4047babfcb77616fb",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
