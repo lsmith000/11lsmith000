@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Lowe",
+  "age": 21,
+  "address": {
+    "street": "Inawa Street",
+    "city": "Culoda",
+    "state": "DC",
+    "zip": "21465"
+  },
+  "contact": {
+    "phone": "(582) 790-9550",
+    "servicePhone": "800993449"
+  },
+  "birthday": "2002-01-29T19:19:20.460Z",
+  "ip": "74.214.199.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubaepa jire rujwofgen eh rizlod opa batge veag da waviboj laldoder jodmirah puvkofa fiknice cegbek sos sulo. Caklut lazvudju gariowu comfaej gibtun owhib hijtawnu puh edu kajikcal edaibnog tetwak pitzazmot. Gosrat ji gerabhi jal gumlajwa bokro nizpejed bizsoke cu co juirle apo luwa vu ohe ed teh walcaah.",
+    "bio": "Fubotveh sadrapkoj faez buhisu lo dapvetez iwmusi dukku pe akrev zekmo hecvi ne ho wujlorke puw ew. Ci nupja hiwobubuv icounobew ni ehatomtod fojzabsit lehohfuf az ab gepaad deda gucci moropji. Eguvatah ko te eje genaleg bipujo gun cehoru solab da batu wumlike mota."
+  },
+  "apiKey": "76048ca74cae6552eac665c12296151783cebdc1fc9b09160d0c8c91d84994ba",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
